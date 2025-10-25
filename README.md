@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">Hi I'm Lara👋</h2>
 
-<!--
-**Redtricity/Redtricity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU3Z2hrOHZzNW9tYmVrdzI3a20zczU4eGh5Y3gxbjQzOHl1Y2c0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img src="https://raw.githubusercontent.com/redtricity/redtricity/output/snake.svg" alt="Snake animation" />
+
+###
